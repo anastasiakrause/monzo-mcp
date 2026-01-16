@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "monzo": {
+      "command": "/Users/anastasiakrause/workspace/monzo-mcp/venv/bin/python",
+      "args": ["-m", "monzo_mcp.server"],
+      "cwd": "/Users/anastasiakrause/workspace/monzo-mcp"
+    }
+  }
+}
